@@ -2,3 +2,4 @@ ScorePad,scorepad.apk
 Pigeon,pigeon.apk
 Random Facts,random_facts.apk
 Big Uns,biguns.apk
+Dew Diligence,dewdiligence.apk
